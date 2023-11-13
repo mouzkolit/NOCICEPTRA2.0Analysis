@@ -1,0 +1,8 @@
+sampleID	sampleGroup
+random_trimmed_F1_S1_R1_001.fastq	noGroup
+random_trimmed_F2_S2_R1_001.fastq	noGroup
+random_trimmed_F3_S3_R1_001.fastq	noGroup
+random_trimmed_F4_S4_R1_001.fastq	noGroup
+random_trimmed_M1_S5_R1_001.fastq	noGroup
+random_trimmed_M2_S6_R1_001.fastq	noGroup
+random_trimmed_M4_S7_R1_001.fastq	noGroup

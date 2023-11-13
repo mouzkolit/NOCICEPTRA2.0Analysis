@@ -1,0 +1,7 @@
+	random_trimmed_F1_S1_R1_001.fastq	random_trimmed_F2_S2_R1_001.fastq	random_trimmed_F3_S3_R1_001.fastq	random_trimmed_F4_S4_R1_001.fastq	random_trimmed_M1_S5_R1_001.fastq	random_trimmed_M2_S6_R1_001.fastq	random_trimmed_M4_S7_R1_001.fastq
+hsa_circ_001165	0	0	0.0559023613828276	0	0	0	0
+hsa_circ_000966	0	0	0	0.410106812905288	0	0	0
+circRNA#circRNA_1798	0	0	0	0.292933437789491	0	0	0
+circRNA#circRNA_652	0	0	0	0.117173375115797	0.202489404741897	0.105256986511422	0
+hsa_circ_000585	0	0	0	0	0.101244702370948	0	0
+hsa_circ_002178	0	0	0	0	0.101244702370948	0	0
